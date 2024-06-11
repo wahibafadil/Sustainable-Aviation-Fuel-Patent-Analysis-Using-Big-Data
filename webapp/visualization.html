@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualizations</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #00b3b3;
+            padding: 10px 20px;
+            color: white;
+        }
+        .navbar .left, .navbar .right {
+            display: flex;
+            align-items: center;
+        }
+        .navbar .left a, .navbar .right a, .dropdown-btn {
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+            margin-right: 10px;
+            cursor: pointer;
+        }
+        .navbar .left a:hover, .navbar .right a:hover, .dropdown-btn:hover {
+            background-color: #575757;
+            border-radius: 4px;
+        }
+        .container {
+            width: 90%;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        .image-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .image-grid .image-card {
+            flex: 1 1 calc(33.333% - 20px);
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            cursor: pointer;
+        }
+        .image-grid img {
+            width: 100%;
+            border-radius: 8px;
+            max-height: 200px;
+            object-fit: cover;
+        }
+        .image-card h3 {
+            margin-top: 10px;
+            font-size: 1.2em;
+            color: #333;
+        }
+        .image-card p {
+            margin-top: 5px;
+            font-size: 1em;
+            color: #666;
+        }
+        iframe {
+            width: 100%;
+            height: 600px;
+            border: none;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="navbar">
+        <div class="left">
+            <div class="dropdown">
+                <span class="dropdown-btn" onclick="showSection('1D')">Visualization 1D</span>
+            </div>
+            <div class="dropdown">
+                <span class="dropdown-btn" onclick="showSection('2D')">Visualization 2D</span>
+            </div>
+            <div class="dropdown">
+                <span class="dropdown-btn" onclick="showSection('3D')">Visualization 3D</span>
+            </div>
+        </div>
+        <div class="right">
+            <a href="home.html">Back to Dashboard</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="1D" class="image-grid" style="display: none;">
+            <div class="image-card" onclick="openModal('inv.png', 'Top Patent Inventors.png','Top Patent Inventors by Count')">
+                <img src="inv.png" alt="Image 1">
+                <h3>Top Patent Inventors</h3>
+                <p>This Pareto chart represents the cumulative number of patents attributed to the top inventors. The x-axis lists the names of inventors, while the left y-axis shows the cumulative count of patents. The red line indicates the cumulative percentage of patents held by these inventors, demonstrating the distribution and concentration of patent ownership among leading inventors.</p>
+            </div>
+            <div class="image-card" onclick="openModal('docdate.png', 'Patent Filings Over Time.png', 'Trends in Patent Filings Over Time')">
+                <img src="docdate.png" alt="Image 2">
+                <h3>Patent Filings Over Time</h3>
+                <p>This graph illustrates the number of patents filed each year from 1925 to 2025. The data shows a significant increase in patent filings, particularly from the mid-1980s onwards, indicating a growing trend in innovation and intellectual property protection.</p>
+            </div>
+            <div class="image-card" onclick="openModal('docdateor.png', 'Patent Publication Dates Over Time.png', 'Trends in Patent Publication Over Time')">
+                <img src="docdateor.png" alt="Image 3">
+                <h3> Patent Publication Dates Over Time</h3>
+                <p>This graph displays the number of patents published each year from 1925 to 2025. Similar to the filing date trends, there is a noticeable increase in published patents starting from the 1980s, reflecting an upward trend in the publication and dissemination of patent information.</p>
+            </div>
+            <div class="image-card" onclick="openModal('LANGUE.png', 'Distribution of Patent Languages.png', 'Description for LANGUE.png','Patent Languages')">
+                <img src="LANGUE.png" alt="Image 4">
+                <h3>Distribution of Patent Languages</h3>
+                <p>: This pie chart shows the distribution of patents by language, with a total count of 3.5K patents. Each color represents a different language.</p>
+            </div>
+            <div class="image-card" onclick="openModal('words.png', 'Common Keywords in Patents', 'Description for words.png','Keywords of sustainable aviation fuel patents')">
+                <img src="words.png" alt="Image 5">
+                <h3>Common Keywords in Patents</h3>
+                <p>This word cloud displays the most frequent keywords in patents related to sustainable aviation fuel. Larger words indicate higher frequency.</p>
+            </div>
+        </div>
+
+        <!-- Ajoutez vos images et descriptions pour Visualization 2D ici -->
+        <div id="2D" class="image-grid" style="display: none;">
+            <div class="image-card" onclick="openModal('2d_1.png', 'Time Between Patent Filing and Publication.png', 'Distribution of Time Between Patent Filing and Publication')">
+                <img src="2d_1.png" alt="2D Image 1">
+                <h3>Time Between Patent Filing and Publication</h3>
+                <p> This histogram shows the frequency of days between patent filing and publication. Most patents are published within 1000 days of filing.</p>
+            </div>
+            <div class="image-card" onclick="openModal('2d_11.png', 'Boxplot of Days Between Filing and Publication.png')">
+                <img src="2d_11.png" alt="2D Image 2">
+                <h3>Boxplot of Days Between Filing and Publication</h3>
+                <p>This boxplot illustrates the distribution of days between patent filing and publication. It highlights the median, quartiles, and potential outliers.</p>
+            </div>
+            <div class="image-card" onclick="openModal('2d_2.png', 'Boxplot of Days Between Filing and Publication.png','Document Types by Assignees')">
+                <img src="2d_2.png" alt="2D Image 3">
+                <h3>Document Types by Top 10 Assignees</h3>
+                <p>This bar chart displays the number of documents held by the top 10 assignees, categorized by document type (DE, EP, JP, US, WIPO).</p>
+            </div>
+            <div class="image-card" onclick="openModal('2d_3.png', 'Number of Documents per Top 10 Inventors.png', 'Number of Documents per Inventors')">
+                <img src="2d_3.png" alt="2D Image 4">
+                <h3>Number of Documents per Top 10 Inventors</h3>
+                <p>This bar chart shows the number of patent documents attributed to the top 10 inventors, indicating the most prolific contributors in the dataset.</p>
+            </div>
+        </div>
+
+        <!-- Ajoutez vos images et descriptions pour Visualization 3D ici -->
+        <div id="3D" class="image-grid" style="display: none;">
+            <iframe src="documents_per_assignee_inventor_3d.html" style="width: 100%; height: 800px; border: none; box-shadow: 0 2px 5px rgba(0,0,0,0.1);"></iframe>
+            <h5 class="mt-3">Documents per Assignee and Inventor</h5>
+            <p>This 3D plot illustrates the number of documents associated with different assignees and inventors. The x-axis represents assignees, the y-axis represents inventors, and the z-axis shows the number of documents. Each point corresponds to an assignee-inventor pair, with height indicating document count. The graph highlights the most prolific assignees and inventors, revealing key contributors and collaboration patterns in patent filings for sustainable aviation fuel.</p>
+            
+            <iframe src="3d_visualization2.html" style="width: 100%; height: 800px; border: none; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-top: 20px;"></iframe>
+            <h5 class="mt-3">Number of Documents by Publication and Filing Year</h5>
+            <p>The color gradient indicates the document count, with darker colors representing fewer documents and brighter colors representing more documents. Users can interact with the plot by rotating and zooming to explore the relationship between filing and publication years, and the number of documents over time.</p>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="imageModalLabel">Image Title</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <img src="" alt="Image" id="modalImage" class="img-fluid">
+                    <p id="modalDescription" style="margin-top: 10px;"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function showSection(section) {
+            document.querySelectorAll('.image-grid').forEach(grid => {
+                grid.style.display = 'none';
+            });
+            document.getElementById(section).style.display = 'flex';
+        }
+
+        function openModal(imageSrc, title, description) {
+            document.getElementById('modalImage').src = imageSrc;
+            document.getElementById('imageModalLabel').innerText = title;
+            document.getElementById('modalDescription').innerText = description;
+            var myModal = new bootstrap.Modal(document.getElementById('imageModal'));
+            myModal.show();
+        }
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

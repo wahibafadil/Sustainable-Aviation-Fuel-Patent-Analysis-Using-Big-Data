@@ -1,0 +1,258 @@
+Document Number,Document Type,Publication Date,Title,Abstract,Inventor Name,Assignee,Filing Date
+11643979,US,05/09/2023,Aircraft fuel system for gas turbine engine,"A propulsion system for an aircraft includes a gas turbine engine and a fuel tank, wherein the fuel includes at least a proportion of a sustainable aviation fuel—SAF—having a density between 90% and 98% of the density, ρK, of kerosene and a calorific value between 101% and 105% the calorific value CVK, of kerosene. The engine includes a combustor; and a fuel pump arranged to supply a fuel thereto at an energy flow rate, C, the pump being arranged to output fuel at a volumetric flow rate, Q, the percentage of fuel passing through the pump not provided to the combustor being referred to as a spill percentage. The fuel include X % SAF, where X % is in the range from 5% to 100%, and has a density, ρF, and a calorific value CVF. The propulsion system is arranged so:
+
+
+
+the fuel-change spill ratio, Rs, of:
+
+
+
+
+
+
+
+
+
+R
+s
+
+=
+
+
+spill
+⁢
+ 
+percentage
+⁢
+ 
+at
+⁢
+ 
+cruise
+⁢
+ 
+using
+⁢
+ 
+kerosene
+
+
+spill
+⁢
+ 
+percentage
+⁢
+ 
+at
+⁢
+ 
+cruise
+⁢
+ 
+using
+⁢
+ 
+the
+⁢
+ 
+fuel
+⁢
+ 
+with
+⁢
+ 
+X
+⁢
+ 
+%
+⁢
+ 
+S
+⁢
+A
+⁢
+F
+
+
+
+
+
+
+
+
+is equal to:
+
+
+
+
+
+
+
+
+
+
+Q
+-
+
+(
+
+C
+/
+
+(
+
+
+CV
+K
+
+×
+
+ρ
+K
+
+
+)
+
+
+)
+
+
+
+Q
+-
+
+(
+
+C
+/
+
+(
+
+
+CV
+F
+
+×
+
+ρ
+F
+
+
+)
+
+
+)
+
+
+
+.","Bemment, Craig W. (Derby, GB)                
+                            Keeler, Benjamin J. (Derby, GB)                
+                            Ferra, Paul W. (Derby, GB)                
+                            Hobday, Alastair G. (Derby, GB)                
+                            Mcnally, Kevin R. (Derby, GB)                
+                            Minelli, Andrea (Derby, GB)                
+                            Yates, Martin K. (Northamptonshire, GB)","ROLLS-ROYCE plc (London, GB)",06/29/2022
+11236280,US,02/01/2022,"Biorenewable kerosene, jet fuel, jet fuel blendstock, and method of manufacturing","The present technology provides compositions that include at least about 98 weight percent (“wt %”) n-paraffins which, among other surprising features, may be suitable for use as a diesel fuel, an aviation fuel, a jet fuel blendstock, a blendstock to reduce the cloud point of a diesel fuel, a fuel for portable heaters, and/or as a charcoal lighter fluid. The composition includes at least about 98 wt % C7-C12 n-paraffins, where at least about 10 wt % of composition includes n-decane, at least about 20 wt % of the composition includes n-dodecane, and at least about 75 wt % of the composition includes even carbon number paraffins. The composition also includes less about 0.1 wt % oxygenates and less than about 0.1 wt % aromatics. The composition may be produced by a process that includes hydrotreating a biorenewable feedstock comprising at least one of palm kernel oil, coconut oil, babassu oil, microbial oil, or algal oil.","Abhari, Ramin (Bixby, OK, US)                
+                            Slade, David A. (Ames, IA, US)                
+                            Tomlinson, Lynn H. (Tulsa, OK, US)                
+                            Ashby, Erik (S. San Francisco, CA, US)                
+                            Green, Nate (Ames, IA, US)                
+                            Golden, Caroline (Baton Rouge, LA, US)","REG SYNTHETIC FUELS, LLC (Ames, IA, US)",05/11/2021
+10246658,US,04/02/2019,"Biorenewable kerosene, jet fuel, jet fuel blendstock, and method of manufacturing","The present technology provides compositions that include at least about 98 weight percent (wt. %) n-paraffins which, among other surprising features, may be suitable for use as a diesel fuel, an aviation fuel, a jet fuel blendstock, a blendstock to reduce the cloud point of a diesel fuel, a fuel for portable heaters, and/or as a charcoal lighter fluid. The composition includes at least 98 wt. % C7-C12 n-paraffins, where at least 10 wt. % of composition includes n-decane, at least 20 wt. % of the composition includes n-dodecane, and at least 75 wt. % of the composition includes even carbon number paraffins. The composition also includes less than 0.1 wt. % oxygenates and less than 0.1 wt. % aromatics. The composition may be produced by a process that includes hydrotreating a biorenewable feedstock comprising at least one of palm kernel oil, coconut oil, babassu oil, microbial oil, or algal oil.","Abhari, Ramin (Bixby, OK, US)                
+                            Slade, David A. (Ames, IA, US)                
+                            Tomlinson, Lynn H. (Tulsa, OK, US)                
+                            Ashby, Erik (S. San Francisco, CA, US)                
+                            Green, Nate (Ames, IA, US)                
+                            Golden, Caroline (Baton Rouge, LA, US)","REG SYNTHETIC FUELS, LLC (Ames, IA, US)",05/10/2017
+11555456,US,01/17/2023,Fuel delivery system and method,"A method of operating a fuel delivery system of an aircraft engine of an aircraft includes operating the aircraft engine in a standby mode by maintaining combustion in a combustor of the aircraft engine by supplying fuel to the combustor via a first set of fuel nozzles of a first fuel manifold while providing a trickle flow of fuel via a second set of fuel nozzles of a second fuel manifold into the combustor during engine operation, the trickle flow being defined as a fuel flow rate selected to prevent flame-out of the combustion while providing one of: substantially no motive power to the aircraft, and no motive power to the aircraft, via the combustion of the trickle flow of fuel. An aircraft gas turbine engine is also described.","Morenko, Oleg (Oakville, CA)                
+                            Kojovic, Aleksandar (Oakville, CA)                
+                            Verhiel, Jeffrey Richard (Mono, CA)","PRATT & WHITNEY CANADA CORP. (Longueuil, CA)",11/01/2019
+6024074,US,02/15/2000,Refrigerated fuel for engines,"A method of fueling an engine (92) of a vehicle having a fuel storage tank (70) is accomplished by providing a liquid fuel for fueling the engine (92). The fuel is cooled to reduced temperatures substantially less than ambient temperature so that the volume of the fuel is reduced. The fuel is stored in the storage tank (70) while the fuel is at the reduced temperatures, with the reduced volume of the fuel thereby allowing more fuel to be held in the storage tank (70) and/or increasing the energy value of the fuel per unit volume. The fuel may be transferred from the storage tank (70) to the engine (92) while the fuel is at the reduced temperatures. The fuel may be cooled using either liquid nitrogen (76), or conventional mechanical refrigeration equipment (150).","Koethe, Terence Lee (Keller, TX)","Fuel, Dynamics (Keller, TX)",06/17/1997
+11001774,US,05/11/2021,"Biorenewable kerosene, jet fuel, jet fuel blendstock, and method of manufacturing","The present technology provides compositions that include at least about 98 weight percent (“wt %”) n-paraffins which, among other surprising features, may be suitable for use as a diesel fuel, an aviation fuel, a jet fuel blendstock, a blendstock to reduce the cloud point of a diesel fuel, a fuel for portable heaters, and/or as a charcoal lighter fluid. The composition includes at least about 98 wt % C7-C12 n-paraffins, where at least about 10 wt % of composition includes n-decane, at least about 20 wt % of the composition includes n-dodecane, and at least about 75 wt % of the composition includes even carbon number paraffins. The composition also includes less about 0.1 wt % oxygenates and less than about 0.1 wt % aromatics. The composition may be produced by a process that includes hydrotreating a biorenewable feedstock comprising at least one of palm kernel oil, coconut oil, babassu oil, microbial oil, or algal oil.","Abhari, Ramin (Bixby, OK, US)                
+                            Slade, David A. (Ames, IA, US)                
+                            Tomlinson, Lynn H. (Tulsa, OK, US)                
+                            Ashby, Erik (S. San Francisco, CA, US)                
+                            Green, Nate (Ames, IA, US)                
+                            Golden, Caroline (Baton Rouge, LA, US)","REG SYNTHETIC FUELS, LLC (Ames, IA, US)",02/25/2019
+10307708,US,06/04/2019,Fuel tank system and method,"A fuel tank system is disclosed that includes a fuel tank and a first fluid flow path between a gas space in the fuel tank and outside of the fuel system. A gas separation membrane is disposed with a first side in communication with the first fluid flow path and a second side in communication with a second fluid flow path. A fluid control device is in communication with the second fluid flow path and is configured to provide fluid flow from the second fluid flow path to a liquid space in the fuel tank or to outside of the fuel system. A prime mover is disposed in communication with the second fluid flow path, and is configured to move fluid on the second fluid flow path from the second side of the separation membrane to the fuel tank liquid space or to outside of the fuel system.","Rheaume, Jonathan (West Hartford, CT, US)                
+                            Cordatos, Haralambos (Colchester, CT, US)","HAMILTON SUNDSTRAND CORPORATION (Windsor Locks, CT, US)",06/24/2016
+11434439,US,09/06/2022,Environment-friendly marine fuel,"For the shipping industry, these fuels provide solutions to long outstanding technical problems that heretofore hindered supply of low sulfur marine fuels in quantities needed to meet worldwide sulfur reduction goals. Marine shipping use of high sulfur bunker oils is reported as largest source of world-wide transportation SOx emissions. When ships on the open seas burn cheap low grade heavy bunker oils high in sulfur, nitrogen and metals, the SOx, NOx, and metal oxides go to the environment. This invention converts essentially all of each barrel of crude feed to a single ultraclean fuel versus conventional refining where crude feed is cut into many pieces, and each piece is sent down a separate market path meeting various different product specifications. When in port, ships can use these fuels to generate and sell electricity to land based electrical grids to offset fuel cost in an environment-friendly manner.","Wohaibi, Mohammed (Nacogdoches, TX, US)                
+                            Pruitt, Tom F. (Nacogdoches, TX, US)","MAWETAL LLC (Nacogdoches, TX, US)",12/31/2019
+11441086,US,09/13/2022,Environment-friendly marine fuel,"For the shipping industry, these fuels provide solutions to long outstanding technical problems that heretofore hindered supply of low sulfur marine fuels in quantities needed to meet worldwide sulfur reduction goals. Marine shipping use of high sulfur bunker oils is reported as largest source of worldwide transportation SOx emissions. When ships on the open seas burn cheap low grade heavy bunker oils high in sulfur, nitrogen and metals, the SOx, NOx, and metal oxides go to the environment. This invention converts essentially all of each barrel of crude feed to a single ultraclean fuel versus conventional refining where crude feed is cut into many pieces, and each piece is sent down a separate market path meeting various different product specifications. When in port, ships can use these fuels to generate and sell electricity to land based electrical grids to offset fuel cost in an environment-friendly manner.","Wohaibi, Mohammed (Nacogdoches, TX, US)                
+                            Pruitt, Tom F. (Nacogdoches, TX, US)","MAWETAL LLC (Nacogdoches, TX, US)",12/31/2019
+10920160,US,02/16/2021,Environment-friendly marine fuel,"For the shipping industry, these fuels provide solutions to long outstanding technical problems that heretofore hindered supply of low sulfur marine fuels in quantities needed to meet worldwide sulfur reduction goals. Marine shipping use of high sulfur bunker oils is reported as largest source of worldwide transportation SOx emissions. When ships on the open seas burn cheap low grade heavy bunker oils high in sulfur, nitrogen and metals, the SOx, NOx, and metal oxides go to the environment. This invention converts essentially all of each barrel of crude feed to a single ultraclean fuel versus conventional refining where crude feed is cut into many pieces, and each piece is sent down a separate market path meeting various different product specifications. When in port, ships can use these fuels to generate and sell electricity to land based electrical grids to offset fuel cost in an environment-friendly manner.","Wohaibi, Mohammed (Nacogdoches, TX, US)                
+                            Pruitt, Tom F. (Nacogdoches, TX, US)","MAWETAL LLC (Nacogdoches, TX, US)",12/31/2019
+6802718,US,10/12/2004,Fuel spill firefighter trainer,"An enhanced deck for generating live fire simulations of fuel spill and chemical fires and the like, and includes a pit for receiving a volume of fluid, such as water, within which is mounted a fuel burner array. Gaseous or liquid fuel is delivered to the burner assembly under pressure, resulting in the expulsion of fuel into the liquid, where the fuel transforms into vapor and rises to the surface of the pit. A support surface structure is provided at the top of the pit flush to the ground level to permit vehicle movement. The fuel vapor is ignited at the support surface to generate a training fire.","Musto, Dominick J. (Middlesex, NJ)                
+                            Williamson, Steven J. (Wayne, NJ)","Kidde Fire Trainers Inc. (Fair Lawn, NJ)",04/19/2002
+US20030198922,US,10/23/2003,Fuel spill firefighter trainer,"An enhanced deck for generating live fire simulations of fuel spill and chemical fires and the like, and includes a pit for receiving a volume of fluid, such as water, within which is mounted a fuel burner array. Gaseous or liquid fuel is delivered to the burner assembly under pressure, resulting in the expulsion of fuel into the liquid, where the fuel transforms into vapor and rises to the surface of the pit. A support surface structure is provided at the top of the pit flush to the ground level to permit vehicle movement. The fuel vapor is ignited at the support surface to generate a training fire.","Musto, Dominick J. (Middlesex, NJ, US)                
+                            Williamson, Steven J. (Wayne, NJ, US)","MUSTO DOMINICK J.                
+                            WILLIAMSON STEVEN J.",04/19/2002
+10994859,US,05/04/2021,Aircraft fuel systems having fluid line extension sleeves,A fuel system for an aircraft. The fuel system includes a fuel tank configured to contain liquid fuel. A non-extendable fluid line is coupled between an airframe member of the aircraft and the fuel tank. A sleeve assembly is coupled between the fluid line and an upper surface of the fuel tank. The sleeve assembly includes a sealing sleeve and an extension sleeve. The sealing sleeve is positioned around the fluid line forming a fluid tight seal therewith and having a non-sliding relationship therewith. The extension sleeve is positioned around the fluid line with a first portion of the extension sleeve having a sliding relationship with the fluid line such that increasing the distance between the upper surface of the fuel tank and the airframe member causes the extension sleeve to increase in length as the fluid line slides relative to the first portion of the extension sleeve.,"Zarate, Michael Remington (Dallas, TX, US)","Textron Innovations Inc. (Providence, RI, US)",07/19/2019
+8882863,US,11/11/2014,Fuel reformulation systems,"A fuel reformulation system for an engine comprising an annular body for a flow of fluids therethrough connected to the engine, a source of fuel for flowing through at least a portion of the annular body, and a catalytic member connected to the annular body for the flow of any fluids thereacross from the annular body.","Modroukas, Dean (Scarsdale, NY, US)                
+                            Tyll, Jason S. (Blue Point, NY, US)                
+                            Leylegian, John C. (White Plains, NY, US)                
+                            Girlea, Florin (Flushing, NY, US)                
+                            Perlman, Richard (Pembroke Pines, FL, US)","Alliant Techsystems Inc. (Arlington, VA, US)",05/13/2009
+11613711,US,03/28/2023,Environment-friendly marine fuel,"For the shipping industry, these fuels provide solutions to long outstanding technical problems that heretofore hindered supply of low sulfur marine fuels in quantities needed to meet worldwide sulfur reduction goals. When ships on the open seas burn cheap low grade heavy bunker oils high in sulfur, nitrogen and metals, the SOx, NOx, and metal oxides go to the environment. This invention converts essentially all of each barrel of crude feed to a single ultraclean fuel versus conventional refining where crude feed is cut into many pieces, and each piece is sent down a separate market path meeting various different product specifications. When in port, ships can generate and sell electricity to land based electrical grids to offset fuel cost in an environment-friendly manner.","Wohaibi, Mohammed (Nacogdoches, TX, US)                
+                            Pruitt, Tom F. (Nacogdoches, TX, US)","MAWETAL LLC (Nacogdoches, TX, US)",05/31/2022
+US20050232858,US,10/20/2005,Fuel reformer catalyst and absorbent materials,"Materials that are useful for absorption enhanced reforming (AER) of a fuel, including absorbent materials and catalyst materials and methods for using the materials. The materials can be fabricated by spray processing. The use of the materials in AER can produce a H2 product gas having a high H2 content and a low level of carbon oxides.","Hampden-smith, Mark J. (Albuquerque, NM, US)                
+                            Atanassova, Paolina (Albuquerque, NM, US)                
+                            Shen, Jian-ping (Albuquerque, NM, US)                
+                            Brewster, James (Rio Rancho, NM, US)                
+                            Napolitano, Paul (Albuquerque, NM, US)",Assignee not found,11/24/2004
+11306039,US,04/19/2022,System and method for making fuels,"Embodiments of a system and method are disclosed for obtaining high-energy fuels. In some embodiments, the system and method produces one or more fused cyclic compounds that can include one or more bridging points. The fused cyclic compounds are suitable for use as a high-energy fuels, and may be derived from biomass.","Sutton, Andrew D. (White Rock, NM, US)                
+                            Moore, Cameron M. (White Rock, NM, US)                
+                            Staples, Orion (Philadelphia, PA, US)                
+                            Semelsberger, Troy A. (Los Alamos, NM, US)                
+                            Kubic Jr., William L. (White Rock, NM, US)","Triad National Security, LLC (Los Alamos, NM, US)",06/04/2019
+11565983,US,01/31/2023,System and method for making fuels,"Embodiments of a system and method are disclosed for obtaining high-energy fuels. In some embodiments, the system and method produces one or more fused cyclic compounds that can include one or more bridging points. The fused cyclic compounds are suitable for use as a high-energy fuels, and may be derived from biomass.","Sutton, Andrew D. (Oak Ridge, TN, US)                
+                            Moore, Cameron M. (White Rock, NM, US)                
+                            Staples, Orion (Philadelphia, PA, US)                
+                            Semelsberger, Troy A. (Los Alamos, NM, US)                
+                            Kubic Jr., William L. (White Rock, NM, US)","Triad National Security, LLC (Los Alamos, NM, US)",08/27/2021
+9051909,US,06/09/2015,"Multifuel storage, metering and ignition system",A system for safe storage and efficient utilization of a variety of fuel selections that range in composition and phase from cryogenic mixtures of solids and liquids to elevated temperature gases is provided for unique applications with various types of heat engines and fuel cells including hybridized combinations.,"Mcalister, Roy Edward (Phoenix, AZ, US)","McAlister Technologies, LLC (Phoenix, AR, US)",10/30/2012
+6142421,US,11/07/2000,Vehicle refueling system,"A vehicle refueling system includes an aero vehicle and a fuel bladder system. The fuel bladder system includes a fuel bladder, a pickup loop of a predetermined loop size, a reel mechanism to retract at least one side of the pickup loop to reduce the loop size, a snag sensor to sense when the pickup loop has been hooked by the retractable hook, the snag sensor initiating the reel mechanism, a compass to sense the random orientation of the loop, a radio navigation receiver to sense a location of the loop, and a transmitter to transmit the random orientation and the location. The vehicle includes a fuselage, a retractable hook with a hook sensor to detect when a fuel bladder is hooked and the loop size has been reduced by the reel mechanism, a fuel bladder stowage chamber within the fuselage, a fuel intake tube capable of drawing fuel from the fuel bladder stowed in the stowage chamber, a retraction mechanism to retract the retractable hook, a fuel transfer mechanism to transfer fuel from the fuel bladder into an internal fuel tank, and a fuel bladder discard mechanism to discard the fuel bladder after the fuel has been drawn from the fuel bladder.","Palmer, Miles R. (Great Falls, VA)","Science Applications International Corporation (San Diego, CA)",01/13/1999
+8297254,US,10/30/2012,"Multifuel storage, metering and ignition system",A system for safe storage and efficient utilization of a variety of fuel selections that range in composition and phase from cryogenic mixtures of solids and liquids to elevated temperature gases is provided for unique applications with various types of heat engines and fuel cells including hybridized combinations.,"Mcalister, Roy (Phoenix, AZ, US)","McAlister Technologies, LLC (Phoenix, AZ, US)",10/19/2009
+8434292,US,05/07/2013,Ceramic-encased hot surface igniter system for jet engines,"A ceramic-encased hot surface igniter system for jet engines is presented. The advanced ceramic-encased hot surface igniter system comprises at least one electrical resistance heated element encased in a durable, thermal and mechanical shock resistant, high temperature advanced ceramic compound such as silicon nitride. The one or more advanced ceramic-encased hot surface igniter elements are mounted proximally upstream or within a combustion chamber of a jet engine enclosure or within the afterburner section of a jet propulsion engine's exhaust. The surface temperature of each ignition element's encasement being of sufficient temperature to cause the ignition of a gaseous, atomized, or liquid fuel.","Eason, Martin P. (Johnson City, TN, US)                
+                            Hemphill, William K. (Johnson City, TN, US)                
+                            Olsen, Martin E. (Johnson City, TN, US)                
+                            Sims, Paul J. (Greeneville, TN, US)","State of Franklin Innovations, LLC (Johnson City, TN, US)",12/17/2007
+5763114,US,06/09/1998,Integrated reformer/CPN SOFC stack module design,"A thermally integrated reformer (10) is located inside the stack furnace (12) housing stacks (14) of solid oxide fuel cells (16). The energy to support the endothermic reformation reaction converting hydrocarbon and water feedstock into hydrogen and carbon monoxide fuel is supplied by heat recovered from the oxidation process in the stack (14) of fuel cells (16). The source of hydrocarbons is desulfurized natural gas. Heat transfers to reformers (10) which may be incrementally shielded packed beds (30, 60) of the reactors (18, 19) of the reformer (10) by radiation from the stacks (14), furnace wall (38), or both and by forced convection from the exhausting airflow exiting the stack furnace (12). Temperature gradients in the reformer (10) may be controlled by selective (or incremented) radiation shielding (20) and by counterflow heat exchange to prevent excessive premature cracking in the reformer. Such an optimized design uses a minimum amount of catalyst, yet prevents carbonization from clogging interstices or otherwise rendering the catalyst or catalyst granules (32) ineffective. Alternatively sufficient catalyst may be provided to render the reformation process a heat-limited reaction. In this circumstance, the stacks (132) configured in a module (106) may transfer heat directly to a reformer (110) surrounding the module (106). The air may pass through a heat exchanger 108 or preheater (200) positioned proximate the module 106 in an insulated enclosure (102).","Khandkar, Ashok C. (Salt Lake City, UT)                
+                            Elangovan, Singaravelu (Sandy, UT)","Gas Research Institute (Chicago, IL)",03/17/1997
+US20230417189,US,12/28/2023,Ecosystem Risk Mitigation System,An Ecosystem Risk Mitigation System comprehensive of Green Technology,"Ross, Gary (Houston, TX, US)",Assignee not found,09/02/2023
+4739957,US,04/26/1988,Strake fence flap,"The strake fence flap is a device which may be tailored to the aircraft to augment the low-speed lift of canard-configured general aviation aircraft with little or no longitudinal trim change and no cruise drag penalty. The strake fence flap is deployed along the upper surface of each of the strakes on the canard aircraft. The strake fence flap is hinged along its lower edge which allows it to be retracted and extended as needed. In the cruise configuration, the strake fence flap is folded flush with the strake upper surface. For deceleration or landing where increased lift and drag are required, the strake fence flap is extended. The frontal area of the strake fence flap becomes exposed resulting in additional drag. The geometry and positioning of the fence causes the flow to separate from the upper edge of the fence and to roll up into a vortex which trails over the strake. The intense suction which accompanies the vortex acts directly on the strake upper surface, thereby significantly increasing the lift.","Vess, Robert J. (Raleigh, NC)                
+                            Rao, Dhanvada (Hampton, VA)","Advanced Aerodynamic Concepts, Inc. (Raleigh, NC)",05/08/1986
+10934165,US,03/02/2021,Solid hydrogen storage system,"A hydrogen storage system includes a pressure-sealed sleeve defining an interior and having an outlet, a shaft extending through the interior of the sleeve, a set of porous chambers arranged axially along and concentric to the shaft, and a hydrogen storage, wherein at least some hydrogen gas is supplied to the outlet.","Halsey, Colin John (Tewkesbury, GB)                
+                            Rainbow, Alexander James (Swindon, GB)","GE AVIATION SYSTEMS LIMITED (Cheltenham, GB)",08/20/2015
+8567354,US,10/29/2013,Portable energy generation systems,"Portable energy generation systems are disclosed. More particularly, a high-output mobile electrical generator system comprising a radial engine power source providing a highly compact physical format.","Kealy, Joseph P. (Phoenix, AZ, US)                
+                            Carmen, Anthony J. (Bloomfield Hills, MI, US)                
+                            Heise, Douglas R. (Tempe, AZ, US)","Clear Energy Systems, Inc. (Tempe, AZ, US)",07/14/2009
+11718520,US,08/08/2023,Solid hydrogen storage system,"A hydrogen storage system includes a pressure-sealed sleeve defining an interior and having an outlet, a shaft extending through the interior of the sleeve, a set of porous chambers arranged axially along and concentric to the shaft, and a hydrogen storage, wherein at least some hydrogen gas is supplied to the outlet.","Halsey, Colin John (Tewkesbury, GB)                
+                            Rainbow, Alexander James (Swindon, GB)","GE AVIATION SYSTEMS LIMITED (Cheltenham, GB)",01/28/2021
+11414609,US,08/16/2022,System for treating renewable feedstocks,"A system that includes a feedstock of a non-petroleum or renewable feedstock containing oxygen and contaminants of one or more of metals, gums, and resins that is introduced into the reactor at a flow velocity of from 20 ft/sec to 100 ft/sec. The feedstock is heated within the reactor to a temperature of from 700° F. to 1100° F. to remove and/or reduce the content of one or more of gums and resins in the fats and/or oils of the feedstock. The system further includes a reactor product that is formed in the reactor from the feedstock that has the one or more of gums and resins in the fats and/or oils of the feedstock removed and/or reduced and a heat exchanger to cool the reactor product. A separator unit separates and removes non-condensable gases, metals and water from the cooled reactor product. A final product of the system is separated from the non-condensable gases, metals and water from the cooled reactor product. The final product has an oxygen content that is 60% or less of that of the feedstock, and wherein the final product comprises 25 wt % or less of any triglycerides, monoglycerides, diglycerides, free fatty acids, phosphatides, sterols, tocopherols, tocotrienols, and fatty alcohols, from 5 wt % to 30 wt % naphtha, and 50 wt % or more diesel.","Ackerson, Michael D. (Fayetteville, AR, US)                
+                            Byars, Michael Steven (Fayetteville, AR, US)                
+                            Ackerson, Kyle (Prairie Grove, AR, US)                
+                            Coleman, John (Lowell, AR, US)","Duke Technologies, LLC (Fayetteville, AR, US)",01/06/2022
+10364699,US,07/30/2019,Cleaning method for jet engine,"Various embodiments herein pertain to apparatus and methods that utilize the water and existing chemicals to generate a foam. The foam can be introduced at that gas-path entrance of the equipment, where it contacts the stages and internal surfaces, to contact, scrub, carry, and remove fouling away from equipment to restore performance. Some embodiments include mixing gas with liquid to create a supply of foam, streaming the foam into a gas turbine engine installed on an airplane, rotating the spools of the engine while streaming, and re-rotating the spools of the engine after a spool has stopped. In yet other embodiments there is a method that includes streaming the foam into an engine installed on an airplane, quantifying an improvement to a family of engines achievable by foam washing, operating a specific engine, determining that the specific engine should be washed, and scheduling a foam washing of the specific engine.","Saenz, Jorge Ivan (Indianapolis, IN, US)","AeroCore Technologies LLC (Indianapolis, IN, US)",10/02/2014
+10846674,US,11/24/2020,Rechargeable devices and kiosks for same,"A system for enabling electrical devices to exchange either battery or battery fluids or reagents that supply the energy for the battery or device with new recharged batteries or battery fluids or reagents for use in equipment including vehicles, excavating and earthmoving equipment, tractors and agricultural equipment or aircraft, smaller devices such as mobile phones, telecommunication devices and portable computers. This system involves handling and billing systems to ensure this is all done and that satisfactory payment to the supplier parties is achieved. The system involves packaging reagents such as enzymes, anodes, gases, etc. in sealed systems in order to ensure their integrity or having control over the delivery and retrieval and internal use systems to ensure the reagent is kept secure and uncontaminated.","Rayner, Dignan (Brisbane, AU)",Assignee not found,06/04/2017
+11040875,US,06/22/2021,Solid state delivery system,"A hydrogen storage system includes a pressure-sealed storage unit defining an interior and having an outlet, an upper manifold and a lower manifold separated by a dividing plane having a set of ports, a set of chambers, and a hydrogen storage, wherein at least some hydrogen gas is supplied to the outlet.","Halsey, Colin John (Tewkesbury, GB)                
+                            Bailey, Michael David (Tewkesbury, GB)                
+                            Williams, Ross Jonathan (Cheltenham, GB)","GE Aviation Systems Limited (Gloucestershire, GB)",11/24/2015
+11643946,US,05/09/2023,Cleaning method for jet engine,"Various embodiments herein pertain to apparatus and methods that utilize the water and existing chemicals to generate a foam. The foam can be introduced at that gas-path entrance of the equipment, where it contacts the stages and internal surfaces, to contact, scrub, carry, and remove fouling away from equipment to restore performance. Various embodiments include operating a gas turbine engine; measuring the performance of the engine during operation; determining that the engine should be foam washed based on the measurements; mixing pressurized gas with pressurized liquid and creating a supply of foam; and streaming the supply of foam into the engine.","Saenz, Jorge Ivan (Zionsville, IN, US)","AeroCore Technologies LLC (Indianapolis, IN, US)",10/29/2018
+11417154,US,08/16/2022,Systems and methods for fleet management,"A system for electric aircraft fleet management for at least an electric aircraft is provided. the system includes a computing device communicatively connected to at least an electric aircraft, wherein the computing device is configured to receive a plurality of measured aircraft operation datum from a sensor disposed on the at least an electric aircraft, select a training set as a function of each measured aircraft operation datum of the plurality of measured aircraft operation datum and the at least an electric aircraft, wherein each measured aircraft operation datum of the plurality of measured aircraft operation datum is correlated to an element of modeled aircraft data, and generate, using a machine-learning algorithm, an aircraft performance model output based on the plurality of measured aircraft operation datum and the selected training set, wherein generating an aircraft performance model includes generating a performance alert.","Moeykens, Vincent (Burlington, VT, US)","BETA AIR, LLC (South Burlington, VT, US)",08/19/2021
+10714069,US,07/14/2020,Systems and methods for tuning propeller noise,"The present disclosure relates to devices, systems, and methods for controlling and/or augmenting acoustic sounds emitted from flight vehicles, such as unmanned aerial vehicles (UAVs). For example, while in flight, a UAV may emit a characteristic sound or tone (or a plurality of such tones), which may be a result of propeller and/or motor noise. To mitigate such noise from UAVs, disclosed embodiments may include acoustic resonators that may provide additional tones to complement the sounds or tones emitted from the UAV. Namely, the acoustic resonators may be shaped, adjusted, or otherwise controlled to emit additional tones that form pleasing intervals in combination with the characteristic tone(s) from the UAV.","Ratner, Daniel (San Francisco, CA, US)","Wing Aviation LLC (Mountain View, CA, US)",10/19/2016
+11217217,US,01/04/2022,Systems and methods for tuning propeller noise,"The present disclosure relates to devices, systems, and methods for controlling and/or augmenting acoustic sounds emitted from flight vehicles, such as unmanned aerial vehicles (UAVs). For example, while in flight, a UAV may emit a characteristic sound or tone (or a plurality of such tones), which may be a result of propeller and/or motor noise. To mitigate such noise from UAVs, disclosed embodiments may include acoustic resonators that may provide additional tones to complement the sounds or tones emitted from the UAV. Namely, the acoustic resonators may be shaped, adjusted, or otherwise controlled to emit additional tones that form pleasing intervals in combination with the characteristic tone(s) from the UAV.","Ratner, Daniel (San Francisco, CA, US)","Wing Aviation LLC (Mountain View, CA, US)",06/04/2020
+11097849,US,08/24/2021,Aircraft having an aft engine,A method for operating an electric fan of an aircraft propulsion system includes driving a plurality of fan blades of the electric fan with an electric machine to generate thrust for the aircraft; and driving the electric machine with the plurality of fan blades of the electric fan to generate electrical power subsequent to driving the plurality of fan blades of the electric fan with the electric machine to generate thrust for the aircraft.,"Pastouchenko, Nikolai N. (Glenville, NY, US)                
+                            Vondrell, Randy M. (Cincinnati, OH, US)                
+                            Murrow, Kurt David (Springboro, OH, US)                
+                            Yao, Jixian (Niskayuna, NY, US)                
+                            Miller, Brandon Wayne (Liberty Township, OH, US)                
+                            Marrinan, Patrick Michael (Mason, OH, US)                
+                            Niergarth, Daniel Alan (Norwood, OH, US)                
+                            Joshi, Narendra Digamber (Schenectady, NY, US)","General Electric Company (Schenectady, NY, US)",09/10/2018
+11472297,US,10/18/2022,Hybrid energy storage system,"An electrical system, and, more particularly, to an electrical system for an aircraft comprising one or more energy sinks and a hybrid energy storage system. The hybrid energy storage system may comprise one or more primary energy sources, a secondary energy source, and a secondary energy source control unit. The one or more primary energy sources may be coupled to and supply power to the one or more energy sinks. The secondary energy source may be coupled to the one or more primary energy sources and adapted to supply power at a variable output voltage to the one or more primary energy sources.","Geiss, Michael (Moettingen, DE)","AIRBUS URBAN MOBILITY GMBH (Munich, DE)",10/13/2020
+US20070219831,US,09/20/2007,Flight risk management system,"A Flight Risk Management System (“FRMS”). The system provides supplementary preflight and in-flight guidance to relatively inexperienced owner/operators of high performance aircraft. A pilot wishing to enroll in the FRMS must have an aircraft equipped with an in-flight data recorder capable of monitoring the aircraft's state and communicating this state to an FRMS dispatcher. The dispatcher analyzes each flight before its commencement and imposes restrictions designed to promote flight safety. The dispatcher monitors the flight in progress to ensure the pilot's compliance with all directives. For most enrollees, participation in the FRMS is a mandatory condition precedent to the pilot's insurance coverage. Thus, the potential loss of insurance coverage enforces compliance. In the preferred embodiment, the FRMS manages pilot training, pilot performance, aircraft maintenance, and flight risk assessment.","Ne'meth, Louis Ge'za (Charlotte, NC, US)",Assignee not found,08/15/2005
+2196819,US,04/09/1940,Propeller,"This invention relates to an airplane adapted for various uses, more particularly to the propelling means for a plane. The form of construction shown consists of a monoplane, but such form is merely for illustrative purposes since the invention may be applied to other types of multi-winged...","Vanetta, Edward A.","Vanetta, Edward A.",10/22/1938
+9709275,US,07/18/2017,Debris removal system,"A casing for a turbo-machine at least partially defines a flow path for a working fluid through or around one or more of a compressor section, a combustor assembly, or a turbine section. The casing defines an inner surface and the inner surface defines a plurality of debris routing channels. The plurality of debris routing channels are configured to route debris in a working fluid within the casing towards a debris collection mechanism.","De Diego, Peter (Saluda, NC, US)                
+                            Roberts III, Herbert Chidsey (Simpsonville, SC, US)                
+                            Roberts Jr., Frederic Woodrow (Simpsonville, SC, US)","General Electric Company (Schenectady, NY, US)",06/25/2014
